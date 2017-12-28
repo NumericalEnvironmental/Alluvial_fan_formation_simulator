@@ -1,5 +1,8 @@
 # Alluvial_fan_formation_simulator
-This repository contains the source code, example input files, and Windows executable for an alluvial fan formation simulator, written in D language. Some of the technical elements and assumptions used in the model are discussed in a post on my blog, (link pending). Here is a brief summary of the code itself.
+
+![Preview](https://numericalenvironmental.files.wordpress.com/2017/12/gravel_surface.png?w=1158&h=494)
+
+This repository contains the source code, example input files, and Windows executable for an alluvial fan formation simulator, written in D language. Some of the technical elements and assumptions used in the model are discussed in a post on my blog, https://numericalenvironmental.wordpress.com/2017/12/28/simulating-the-formation-of-an-alluvial-fan/. Here is a brief summary of the code itself.
 
 The file alluvium.d contains several classes that handle different facets of the overall algorithm. These include:
 
