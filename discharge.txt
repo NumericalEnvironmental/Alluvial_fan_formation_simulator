@@ -1,0 +1,8 @@
+geoMeanQ	-0.698970004
+logStdevQ	0.6
+debrisFlowQ	2
+dryCutoffQ	0.0025
+a	5.936513742
+b	-1
+logtRes	0.2
+endTime	1.0E+12

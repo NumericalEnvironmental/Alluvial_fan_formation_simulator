@@ -1,0 +1,7 @@
+x0	0
+y0	0
+d	30
+f	2
+Default_dz	0.1				
+Default_dzTop	0.01				
+Default_lithFrac	0.225	0.225	0.225	0.225	0.1
